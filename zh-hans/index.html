@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Template</title>
+
+
+    <!--<link rel="stylesheet" href="style/public.css">-->
+
+    <!-- Bootstrap -->
+    <!--<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="../style/bootstrap.min.css">
+    <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+    <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+    <!--[if lt IE 9]>
+    <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" href="../style/nav.css">
+    <link rel="stylesheet" href="../style/styles.css">
+    <link rel="stylesheet" href="../style/media.css">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#menu" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">
+                <img src="../image/切片1@2x.png" alt="brand">
+            </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="menu">
+            <ul class="nav navbar-nav navbar-right" id="navigation">
+                <li class="current"><a href="#index">首页</a></li>
+                <li><a href="#">产品介绍</a></li>
+                <li><a href="#">团队介绍</a></li>
+                <li><a href="#">新闻资讯</a></li>
+                <li><a href="#download">下载</a></li>
+
+
+                <li>
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">简</a></li>
+                        <li><a href="#">繁</a></li>
+                        <li><a href="#">英</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+
+<main class="container-fluid page-index" id="index">
+    <div class="container">
+        <h1 class="name">BitUniverse</h1>
+        <h5 class="slogan">您的数字资产管家</h5>
+        <div class="line"></div>
+        <h2 class="introduce">资产管理时代,以更便捷、更快捷、更优的服务</h2>
+        <h2 class="introduce">重新定义资产管理</h2>
+    </div>
+</main>
+
+
+<main class="container-fluid page-download" id="download">
+    <div class="container">
+        <div class="col-md-5">
+            <h1>APP下载</h1>
+            <h4>全功能数字资产管家,提供数字资产的记录、数据分析、存储功能</h4>
+            <div class="getWrapper">
+                <img src="../image/getAppStore.png" alt="">
+            </div>
+            <div class="getWrapper">
+                <img src="../image/getGoogle.png" alt="">
+            </div>
+        </div>
+        <div class="col-md-7 phone-wrapper">
+            <div class="img-wrapper s9">
+                <img src="../image/galaxyS9.png" alt="">
+            </div>
+
+            <div class="img-wrapper iphoneX">
+                <img src="../image/iPhoneX.png" alt="">
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-introduce" id="introduce">
+    <div class="container">
+        <h1>产品介绍</h1>
+        <h4>全功能数字资产管家，一站式地提供数字资产的记录、数据分析、存储功能</h4>
+
+
+        <div class="pull-left">
+            <div class="col-md-4 img-wrapper">
+                <img src="../image/introduce_left.png" alt="">
+                <p class="title">全资产记录</p>
+            </div>
+            <div class="col-md-4 img-wrapper">
+                <img src="../image/introduce_center.png" alt="">
+                <p class="title">实时极速行情</p>
+            </div>
+            <div class="col-md-4 img-wrapper">
+                <img src="../image/introduce_right.png" alt="">
+                <p class="title">去中心化钱包</p>
+            </div>
+        </div>
+
+
+        <div class="reverse-shadow pull-left">
+            <div class="col-md-4 img-wrapper">
+                <img src="../image/introduce_left.png" alt="">
+            </div>
+            <div class="col-md-4 img-wrapper">
+                <img src="../image/introduce_center.png" alt="">
+            </div>
+            <div class="col-md-4 img-wrapper">
+                <img src="../image/introduce_right.png" alt="">
+            </div>
+
+            <div class="cover"></div>
+        </div>
+        <div class="col-md-12">
+            <div class="view-all">查看全部</div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-recode introduce-list" id="recode">
+    <div class="container">
+        <div class="col-md-7">
+            <h1>全资产记录</h1>
+            <h4>自动化地利用交易所的API Key和钱包的地址导入你在交易所或者钱包的资产，自动记录所有交易及存取记录，帮助你精准且轻松地记录所有的数字资产。还可记录挖矿、ICO等来源的资产</h4>
+        </div>
+        <div class="col-md-5 phone-wrapper">
+            <div class="img-wrapper image-1">
+                <img src="../image/recode_1.png" alt="">
+            </div>
+            <div class="img-wrapper image-2">
+                <img src="../image/recode_2.png" alt="">
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-info introduce-list" id="info">
+    <div class="cover">
+        <div class="container">
+            <div class="col-md-7">
+                <h1>实时极速行情</h1>
+                <h4>支持170+交易所，5000+种数字货币的实时行情，2秒一次的极速更新频率，行业领先。让用户可以实时掌握自己拥有的数字货币的价格，并设置提醒</h4>
+            </div>
+            <div class="col-md-5 phone-wrapper">
+                <div class="img-wrapper image-1">
+                    <img src="../image/info_1.png" alt="">
+                </div>
+                <div class="img-wrapper image-2">
+                    <img src="../image/info_2.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-wallet introduce-list" id="wallet">
+    <div class="container">
+        <div class="col-md-7">
+            <h1>去中心化钱包</h1>
+            <h4>BitUniverse内置以太坊Ethereum轻钱包，并支持ERC20代币，安全地保管你的数字资产</h4>
+        </div>
+        <div class="col-md-5 phone-wrapper">
+            <div class="img-wrapper image-1">
+                <img src="../image/wallet_1.png" alt="">
+            </div>
+            <div class="img-wrapper image-2">
+                <img src="../image/wallet_2.png" alt="">
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-download-2">
+    <div class="container">
+        <div class="col-md-12">
+            <div class="img-wrapper">
+                <img src="../image/bitUniverse.png" alt="">
+            </div>
+            <div class="download-wrapper">
+                <div class="col-md-3"></div>
+                <a class="download-img col-md-3" href="#">
+                    <img src="../image/getAppStore.png" alt="">
+                </a>
+
+                <a class="download-img col-md-3" href="#">
+                    <img src="../image/getGoogle.png" alt="">
+                </a>
+                <div class="col-md-3"></div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-team" id="team">
+    <div class="container">
+        <div class="col-md-12">
+            <h1>团队介绍</h1>
+            <h4>BITUNIVERSE 专注数字货币资产管理的平台</h4>
+        </div>
+        <div>
+            <div class="col-md-4 outer-box">
+                <div class="inner-box">
+                    <div class="content">
+                        <div class="head-wrapper">
+                            <img src="../image/chenyong.png" alt="">
+                        </div>
+                        <span>陈勇</span>
+                        <h5>创始人</h5>
+                        <p>2004年加入金山软件，从事反病毒相关工作。在病毒分析、脱壳、恶意软件识别等方面有丰富经验。主导设计金山安全云3.0及金山火眼等云端产品。2010年加入猎豹移动，负责的产品CM
+                            Security在Google Play获得过亿的下载量。目前加盟币盈科技，专注区块链方向的研究。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 outer-box">
+
+                <div class="inner-box">
+
+                    <div class="content">
+                        <div class="head-wrapper">
+                            <img src="../image/gaohao.png" alt="">
+                        </div>
+                        <span>高昊</span>
+                        <h5>合伙人</h5>
+                        <p>北京大学MFA。 2003年起供职于中央电视台，担任主持人、记者，有着多年媒体工作的经验。2018年2月加盟币盈，行政公关部负责人。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 outer-box">
+
+                <div class="inner-box">
+
+                    <div class="content">
+                        <div class="head-wrapper">
+                            <img src="../image/zhaomin.png" alt="">
+                        </div>
+                        <span>赵闽</span>
+                        <h5>&nbsp;</h5>
+                        <p>2004年加入金山软件，从事反病毒相关工作。在病毒分析、脱壳、恶意软件识别等方面有丰富经验。主导设计金山安全云3.0及金山火眼等云端产品。2010年加入猎豹移动，负责的产品CM
+                            Security在Google Play获得过亿的下载量。目前加盟币盈科技，专注区块链方向的研究。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-news">
+    <div class="container">
+        <div class="title">
+            <h1>新闻</h1>
+            <h4>BitUniverse内置以太坊Ethereum轻钱包,并支持ERC20代币,安全的保管你的数字资产</h4>
+        </div>
+        <div class="col-md-6">
+            <div class="content-box">
+                <div class="pull-left img-wrapper">
+                    <img src="../image/news.png" alt="">
+                </div>
+                <div class="right">
+                    <h3>区块链与数字货币常见问答</h3>
+                    <p class="clamp3">
+                        问:能通俗的解释一下什么是区块链么?通俗一点说,区块链技术就是一种全民参与记账
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="content-box">
+                <div class="pull-left img-wrapper">
+                    <img src="../image/news.png" alt="">
+                </div>
+                <div class="right">
+                    <h3>区块链与数字货币常见问答</h3>
+                    <p class="clamp3">
+                        问:能通俗的解释一下什么是区块链么?通俗一点说,区块链技术就是一种全民参与记账
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="content-box">
+                <div class="pull-left img-wrapper">
+                    <img src="../image/news.png" alt="">
+                </div>
+                <div class="right">
+                    <h3>区块链与数字货币常见问答</h3>
+                    <p class="clamp3">
+                        问:能通俗的解释一下什么是区块链么?通俗一点说,区块链技术就是一种全民参与记账
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="content-box">
+                <div class="pull-left img-wrapper">
+                    <img src="../image/news.png" alt="">
+                </div>
+                <div class="right">
+                    <h3>区块链与数字货币常见问答</h3>
+                    <p class="clamp3">
+                        问:能通俗的解释一下什么是区块链么?通俗一点说,区块链技术就是一种全民参与记账
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-join">
+    <div class="container">
+        <div class="title">
+            <h1>加入我们</h1>
+            <h4>BitUniverse内置以太坊Ethereum轻钱包,并支持ERC20代币,安全的保管你的数字资产</h4>
+        </div>
+
+
+        <div class="oh">
+            <div class="col-md-5">
+                <ul class="left-list">
+                    <li class="active">高级软件开发工程师</li>
+                    <li>前端开发工程师</li>
+                    <li>高级产品经理</li>
+                    <li>高级运维工程师</li>
+                    <li>高级PHP开发工程师</li>
+                    <li>运维专员</li>
+                    <li>信息安全架构师</li>
+                    <li>客服专员</li>
+                </ul>
+            </div>
+            <div class="col-md-7">
+                <ul class="right-list">
+                    <li>
+                        <p>职位描述</p>
+                        <ul class="disc">
+                            <li>负责公司基础平台SOA化的建设</li>
+                            <li>负责公司开放平台系统的架构和开发</li>
+                            <li>财务系统及互联网金融网站的设计和开发</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>职位要求</p>
+                        <ul class="disc">
+                            <li>四年以上Java互联网开发经验，1年以上应用架构经验。</li>
+                            <li>精通Spring MVC，Mybatis,redis等常用开源组件。</li>
+                            <li>熟悉各种常用设计模式，能将设计模式应用到日常工作。</li>
+                            <li>熟悉至少一种较为常见的主流数据库及SQL语言，有一定的sql调优经验。</li>
+                            <li>熟悉多线程编程，有一定的jvm调优经验。</li>
+                            <li>加分项： 熟悉dubbo系统，看过源码更好;熟悉开放平台建设。</li>
+                            <li>计算机相关专业本科以上学历。</li>
+                            <li>具有良好的沟通表达能力和团队协作能力。</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="email-wrapper">
+            投递邮箱 <a href="mailto:bituniverse@bit.com">bituniverse@bit.com</a>
+        </div>
+    </div>
+</main>
+
+
+
+<footer class="container-fluid footer">
+    <div class="container">
+        <div class="oh">
+            <div class="col-md-6">
+                <h1>联系我们</h1>
+                <h4>BitUniverse内置以太坊Ethereum轻钱包,并支持ERC20代币,安全的保管你的数字资产</h4>
+            </div>
+        </div>
+        <div class="oh">
+            <div class="col-md-1"></div>
+            <div class="col-md-1"></div>
+            <div class="col-md-1"></div>
+            <div class="col-md-1">
+                <img src="../image/icon.png" alt="">
+            </div>
+            <div class="col-md-1">
+                <img src="../image/icon.png" alt="">
+            </div>
+            <div class="col-md-1">
+                <img src="../image/icon.png" alt="">
+            </div>
+            <div class="col-md-1">
+                <img src="../image/icon.png" alt="">
+            </div>
+            <div class="col-md-1">
+                <img src="../image/icon.png" alt="">
+            </div>
+            <div class="col-md-1">
+                <img src="../image/icon.png" alt="">
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-1"></div>
+            <div class="col-md-1"></div>
+        </div>
+
+        <div class="phone oh">
+            <p>400-666-5666</p>
+            <p>周一至周日 9:00-18:00</p>
+        </div>
+        <hr>
+        <div  class="oh">
+            <a class="pull-left brand" href="#">
+                <img src="../image/切片1@2x.png" alt="brand">
+            </a>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="current"><a href="#index">首页</a></li>
+                <li><a href="#">产品介绍</a></li>
+                <li><a href="#">团队介绍</a></li>
+                <li><a href="#">新闻资讯</a></li>
+                <li><a href="#download">下载</a></li>
+
+
+                <li>
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">简</a></li>
+                        <li><a href="#">繁</a></li>
+                        <li><a href="#">英</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+        <hr>
+        <p class="copy">&copy;2018</p>
+    </div>
+
+</footer>
+
+<!-- /.container -->
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/navScroll.js"></script>
+<script src="../js/clamp.min.js"></script>
+
+<!--引入公共JS-->
+<!--私有JS-->
+<script src="../js/myJs.js"></script>
+
+
+</body>
+</html>

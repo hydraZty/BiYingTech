@@ -1,0 +1,32 @@
+* { margin: 0;padding: 0;border: 0;outline: 0; font-weight:normal; font-style:normal;     letter-spacing:-0.5px;}
+select,option { word-wrap:normal; }
+select { font-size:16px; font-family:Arial,sans-serif,Helvetica,'Microsoft YaHei',Verdana; }
+textarea { font-size:15px; }
+img { border:0; vertical-align:auto; }
+ul, li, ol, dl, dt, dd{ list-style:none; }
+br { height:0; line-height:0; font-size:0; overflow:hidden; vertical-align:top; }
+body { margin:0; padding:0; font-family:Arial,sans-serif,Helvetica,'Microsoft YaHei',Verdana; color:#666; font-size:14px; line-height:1.4; background-color:#fff;
+word-wrap:break-word; -webkit-tap-highlight-color: rgba(0,0,0,0);-webkit-touch-callout: none;  -webkit-user-drag:none;  -webkit-user-select:none; }
+a { text-decoration:none; /*-webkit-tap-highlight-color: rgba(26,26,26,0.301961);*/ -webkit-touch-callout: none; -webkit-user-drag:none;  -webkit-user-select:none;color:#555; }
+
+button { /*-webkit-tap-highlight-color:rgba(26,26,26,0.301961);*/ font-family:Arial,sans-serif,Helvetica,'Microsoft YaHei',Verdana;outline-style: none;border: none;  }
+a, button{
+    -ms-touch-action: manipulation;    /* IE10  */
+    touch-action: manipulation;        /* IE11+ */
+}
+/*单选框样式*/
+.checkbox, input[type=checkbox]{ vertical-align:middle;display: inline-block;width: 44px;height: 44px;-webkit-appearance:none; appearance:none; /*-webkit-tap-highlight-color:rgba(0,0,0,0);*/}
+.checked , input[type=checkbox]:checked {background-position: -88px -308px}
+/*input[type=search]搜索框去默认样式*/
+input::-webkit-search-decoration,input::-webkit-search-cancel-button {	display: none;}
+
+html,body{
+    height:100%;
+    position: relative;
+    /*unicode-bidi: bidi-override;*/
+}
+/*span,em,p,a,b{*/
+    /*unicode-bidi:bidi-override;*/
+/*}*/
+
+
