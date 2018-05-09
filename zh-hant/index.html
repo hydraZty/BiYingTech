@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>BitUniverse 首页</title>
+
+
+    <!--<link rel="stylesheet" href="style/public.css">-->
+
+    <!-- Bootstrap -->
+    <!--<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="../style/bootstrap.min.css">
+    <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+    <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+    <!--[if lt IE 9]>
+    <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="../style/nav.css">
+    <link rel="stylesheet" href="../style/styles.css">
+    <link rel="stylesheet" href="../style/media.css">
+    <link rel="shortcut icon" href="../image/app-icon.png" />
+</head>
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#menu" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="./index.html">
+
+                <img src="../image/brand.png" alt="brand">
+            </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="menu">
+            <ul class="nav navbar-nav navbar-right" id="navigation">
+                <li class="current"><a href="./index.html">首頁</a></li>
+                <li><a href="./introduce.html">產品介紹</a></li>
+                <li><a href="./news.html">新聞資訊</a></li>
+                <li><a href="./team.html">關於我們</a></li>
+                <li><a href="./download.html">下載</a></li>
+
+
+                <li>
+                    <ul class="nav navbar-nav">
+                        <li><a href="../zh-hans/index.html">简</a></li>
+                        <li class="current"><a href="#">繁</a></li>
+                        <li><a href="../en-us/index.html">EN</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+
+<main class="container-fluid top-page page-index" id="index">
+    <div class="background-cover">
+        <div class="container">
+            <h1 class="name">萬物token化時代</h1>
+            <h2 class="slogan">BitUniverse妳專用的資產管理和行情服務專家</h2>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-download" id="download">
+    <div class="container">
+        <h3>APP下載</h3>
+        <h4>全功能數字資產管家，提供數字資產的記錄、數據分析、存儲功能</h4>
+        <div class="col-sm-7 phone-wrapper">
+            <div class="img-wrapper s9">
+                <img src="../image/galaxyS9_hant.png" alt="">
+            </div>
+
+            <div class="img-wrapper iphoneX">
+                <img src="../image/iphoneX.png" alt="">
+            </div>
+        </div>
+        <div class="col-sm-5 download-button-wrapper">
+            <div class="getWrapper cursor"
+                 onclick="location='https://itunes.apple.com/app/bituniverse/id1329338902'">
+                <img class="radius-shadow" src="../image/getAppStore_blue.png" alt="">
+            </div>
+            <div class="getWrapper cursor"
+                 onclick="location='https://play.google.com/store/apps/details?id=com.bituniverse.portfolio&referrer=utm_source%3Dofficialwebsite'">
+                <img class="radius-shadow" src="../image/getGoogle_blue.png" alt="">
+            </div>
+
+            <div class="getWrapper cursor"
+                 onclick="location='https://dl.data.bituniverse.org/bituniverse.apk'">
+                <img class="radius-shadow" src="../image/getApk_white.png" alt="">
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-introduce hidden-xs" id="introduce">
+    <div class="container">
+        <h3>產品介紹</h3>
+        <div class="col-sm-3 list-item">
+            <a class="icon-wrapper">
+                <img src="../image/BAI-001.png" alt="icon">
+            </a>
+            <h6>幣資產與持倉盈虧</h6>
+            <p>壹眼看盡總資產、持倉盈虧及變化曲線</p>
+        </div>
+
+
+        <div class="col-sm-3 list-item">
+            <div class="icon-wrapper">
+                <img src="../image/BAI-002.png" alt="icon">
+            </div>
+            <h6>從交易所自動同步</h6>
+            <p>使用 API自動同步持倉盈虧、還可記錄挖礦所得</p>
+        </div>
+
+        <div class="col-sm-3 list-item">
+            <div class="icon-wrapper">
+                <img src="../image/BAI-003.png" alt="icon">
+            </div>
+            <h6>實時幣價格</h6>
+            <p>支持170+交易所與5000+貨幣</p>
+        </div>
+
+
+        <div class="col-sm-3 list-item">
+            <div class="icon-wrapper">
+                <img src="../image/BAI-004.png" alt="icon">
+            </div>
+            <h6>專業的數據</h6>
+            <p>自帶CoinMarketCap數據、支持K線圖</p>
+        </div>
+
+
+        <div class="col-sm-3 list-item">
+            <div class="icon-wrapper">
+                <img src="../image/BAI-005.png" alt="icon">
+            </div>
+            <h6>實時提醒</h6>
+            <p>設置目標價格後、秒級提醒</p>
+        </div>
+
+        <div class="col-sm-3 list-item">
+            <div class="icon-wrapper">
+                <img src="../image/BAI-006.png" alt="icon">
+            </div>
+            <h6>多幣種錢包</h6>
+            <p>支持以太坊與ERC20代幣</p>
+        </div>
+
+        <div class="col-sm-3 list-item">
+            <div class="icon-wrapper">
+                <img src="../image/BAI-007.png" alt="icon">
+            </div>
+            <h6>自動同步交易記錄</h6>
+            <p>使用API自動獲取</p>
+        </div>
+
+        <div class="col-sm-3 list-item">
+            <div class="icon-wrapper">
+                <img src="../image/BAI-008.png" alt="icon">
+            </div>
+            <h6>ICO挖礦所得</h6>
+            <p>壹個APP，滿足您的所有需求</p>
+        </div>
+    </div>
+</main>
+
+<main class="container-fluid page-recode introduce-list" id="recode">
+    <div class="container">
+        <h3 class="visible-xs">產品介紹</h3>
+        <div id="introduce-1" class="col-sm-5">
+            <h3>全資產記錄</h3>
+            <h4>自動化地利用交易所的API Key和錢包的地址導入妳在交易所或者錢包的資產，自動記錄所有交易及存取記錄，幫助妳精準且輕松地記錄所有的數字資產。還可記錄挖礦、ICO等來源的資產</h4>
+
+            <!--    手機端顯示    -->
+            <div class="col-sm-7 phone-wrapper visible-xs">
+                <div class="img-wrapper image-1">
+                    <img src="../image/phone_recode_1_hant.png" alt="">
+                </div>
+                <div class="img-wrapper image-2">
+                    <img src="../image/phone_recode_2_hant.png" alt="">
+                </div>
+            </div>
+            <!--  手機端顯示結束  -->
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON01.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">幣資產與持倉盈虧</h5>
+                    <p>壹眼看盡總資產、持倉盈虧及變化曲線</p>
+                </div>
+            </div>
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON02.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">從交易所自動同步</h5>
+                    <p>使用 API自動同步持倉盈虧、還可記錄挖礦所得</p>
+                </div>
+            </div>
+        </div>
+
+
+        <!--    手機端隱藏    -->
+        <div class="col-sm-7 phone-wrapper hidden-xs">
+            <div class="img-wrapper image-1">
+                <img src="../image/phone_recode_1_hant.png" alt="">
+            </div>
+            <div class="img-wrapper image-2">
+                <img src="../image/phone_recode_2_hant.png" alt="">
+            </div>
+        </div>
+        <!--  手機端隱藏結束  -->
+    </div>
+</main>
+
+
+<main class="container-fluid page-info introduce-list">
+    <div class="container">
+        <div class="col-sm-7 phone-wrapper hidden-xs">
+            <div class="img-wrapper image-1">
+                <img src="../image/galaxyS9_hant.png" alt="">
+            </div>
+            <div class="img-wrapper image-2">
+                <img src="../image/phone_info_2_hant.png" alt="">
+            </div>
+        </div>
+
+        <div class="col-sm-5">
+            <h3>實時極速行情</h3>
+            <h4>支持170+交易所，5000+種數字貨幣的實時行情，2秒壹次的極速更新頻率，行業領先。讓用戶可以實時掌握自己擁有的數字貨幣的價格，並設置提醒</h4>
+
+
+            <div class="col-sm-7 phone-wrapper visible-xs">
+                <div class="img-wrapper image-1">
+                    <img src="../image/galaxyS9_hant.png" alt="">
+                </div>
+                <div class="img-wrapper image-2">
+                    <img src="../image/phone_info_2_hant.png" alt="">
+                </div>
+            </div>
+
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON03.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">實時幣價格</h5>
+                    <p>支持170+交易所與5000+貨幣</p>
+                </div>
+            </div>
+
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON04.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">專業的數據</h5>
+                    <p>自帶CoinMarketCap數據、支持K線圖</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-recode introduce-list">
+    <div class="container">
+        <div class="col-sm-5">
+            <h3>去中心化錢包</h3>
+            <h4>BitUniverse內置以太坊Ethereum輕錢包，並支持ERC20代幣，安全地保管妳的數字資產</h4>
+
+
+            <div class="col-sm-7 phone-wrapper visible-xs">
+                <div class="img-wrapper image-1">
+                    <img src="../image/phone_wallet_1_hant.png" alt="">
+                </div>
+                <div class="img-wrapper image-2">
+                    <img src="../image/phone_wallet_2_hant.png" alt="">
+                </div>
+            </div>
+
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON05.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">實時提醒</h5>
+                    <p>設置目標價格後、秒級提醒</p>
+                </div>
+            </div>
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON06.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">多幣種錢包</h5>
+                    <p>支持以太坊與ERC20代幣</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-7 phone-wrapper hidden-xs">
+            <div class="img-wrapper image-1">
+                <img src="../image/phone_wallet_1_hant.png" alt="">
+            </div>
+            <div class="img-wrapper image-2">
+                <img src="../image/phone_wallet_2_hant.png" alt="">
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-info introduce-list" id="info">
+    <div class="container">
+        <div class="col-sm-7 phone-wrapper hidden-xs">
+            <div class="img-wrapper image-1">
+                <img src="../image/phone_bit_1_hant.png" alt="">
+            </div>
+            <div class="img-wrapper image-2">
+                <img src="../image/phone_bit_2_hant.png" alt="">
+            </div>
+        </div>
+        <div class="col-sm-5">
+            <h3>BitUniverse</h3>
+            <h4>壹款專註於行情服務和資產管理的工具</h4>
+
+
+            <div class="col-sm-7 phone-wrapper visible-xs">
+                <div class="img-wrapper image-1">
+                    <img src="../image/phone_bit_1_hant.png" alt="">
+                </div>
+                <div class="img-wrapper image-2">
+                    <img src="../image/phone_bit_2_hant.png" alt="">
+                </div>
+            </div>
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON07.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">自動同步交易記錄</h5>
+                    <p>使用API自動獲取</p>
+                </div>
+            </div>
+
+            <div class="media">
+                <div class="media-left">
+                    <img src="../image/iCON08.png" alt="icon">
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading">ICO挖礦所得</h5>
+                    <p>壹個APP，滿足您的所有需求</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-download-2">
+    <div class="container">
+        <div class="img-wrapper">
+            <img src="../image/shadow-icon.png" class="img" alt="">
+        </div>
+        <div class="download-2">
+            <h5>BitUniverse</h5>
+            <h6>您的數字資產管家</h6>
+        </div>
+
+
+        <div class="download-wrapper">
+            <a class="download-img" href="https://itunes.apple.com/app/bituniverse/id1329338902">
+                <img class="radius-shadow" src="../image/getAppStore_white.png" alt="">
+            </a>
+
+            <a class="download-img"
+               href="https://play.google.com/store/apps/details?id=com.bituniverse.portfolio&referrer=utm_source%3Dofficialwebsite">
+                <img class="radius-shadow" src="../image/getGoogle_white.png" alt="">
+            </a>
+
+            <a class="download-img"
+               href="https://dl.data.bituniverse.org/bituniverse.apk">
+                <img class="radius-shadow" src="../image/getApk_black.png" alt="">
+            </a>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-team" id="team">
+    <div class="container">
+        <h3>關於我們</h3>
+        <h4>專註數字貨幣資產管理的平臺</h4>
+        <div>
+            <div class="col-sm-4 outer-box">
+                <div class="inner-box">
+                    <div class="content">
+                        <div class="head-wrapper">
+                            <img src="../image/chenyong.png" alt="">
+                        </div>
+                        <span>陳勇</span>
+                        <h5>創始人</h5>
+                        <p>
+                            陳勇自2001年加盟金山，負責金山毒霸整體產品研發，具有很深的安全和產品研發背景。2010年加盟獵豹以來，歷任獵豹移動高級副總裁，負責並主持獵豹公司移動的核心產品業務。他所負責的Clean
+                            Master，CMS產品全球總下載次數超過16億，產品月度活躍達到6億。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 outer-box">
+
+                <div class="inner-box">
+
+                    <div class="content">
+                        <div class="head-wrapper">
+                            <img src="../image/gaohao.png" alt="">
+                        </div>
+                        <span>高昊</span>
+                        <h5>合夥人</h5>
+                        <p>北京大學MFA。 2003年起供職於中央電視臺，擔任主持人、記者，有著多年媒體工作的經驗。2018年2月加盟幣盈，行政公關部負責人。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 outer-box">
+
+                <div class="inner-box">
+
+                    <div class="content">
+                        <div class="head-wrapper">
+                            <img src="../image/zhaomin.png" alt="">
+                        </div>
+                        <span>趙閩</span>
+                        <h5>&nbsp;</h5>
+                        <p>2004年加入金山軟件，從事反病毒相關工作。在病毒分析、脫殼、惡意軟件識別等方面有豐富經驗。主導設計金山安全雲3.0及金山火眼等雲端產品。2010年加入獵豹移動，負責的產品CM
+                            Security在Google Play獲得過億的下載量。目前加盟幣盈科技，專註區塊鏈方向的研究。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<main class="container-fluid page-news">
+    <div class="container">
+        <h3>新聞</h3>
+
+        <div class="index-news-wrapper">
+
+        </div>
+
+
+        <div class="view-more">
+            <a href="news.html">查看更多></a>
+        </div>
+    </div>
+</main>
+
+
+<!--<main class="container-fluid page-join">-->
+<!--<div class="container">-->
+<!--<div class="title">-->
+<!--<h1>加入我們</h1>-->
+<!--<h4>BitUniverse內置以太坊Ethereum輕錢包,並支持ERC20代幣,安全的保管妳的數字資產</h4>-->
+<!--</div>-->
+
+
+<!--<div class="oh">-->
+<!--<div class="col-sm-5">-->
+<!--<ul class="left-list">-->
+<!--<li class="active">高級軟件開發工程師</li>-->
+<!--<li>前端開發工程師</li>-->
+<!--<li>高級產品經理</li>-->
+<!--<li>高級運維工程師</li>-->
+<!--<li>高級PHP開發工程師</li>-->
+<!--<li>運維專員</li>-->
+<!--<li>信息安全架構師</li>-->
+<!--<li>客服專員</li>-->
+<!--</ul>-->
+<!--</div>-->
+<!--<div class="col-sm-7">-->
+<!--<ul class="right-list">-->
+<!--<li>-->
+<!--<p>職位描述</p>-->
+<!--<ul class="disc">-->
+<!--<li>負責公司基礎平臺SOA化的建設</li>-->
+<!--<li>負責公司開放平臺系統的架構和開發</li>-->
+<!--<li>財務系統及互聯網金融網站的設計和開發</li>-->
+<!--</ul>-->
+<!--</li>-->
+<!--<li>-->
+<!--<p>職位要求</p>-->
+<!--<ul class="disc">-->
+<!--<li>四年以上Java互聯網開發經驗，1年以上應用架構經驗。</li>-->
+<!--<li>精通Spring MVC，Mybatis,redis等常用開源組件。</li>-->
+<!--<li>熟悉各種常用設計模式，能將設計模式應用到日常工作。</li>-->
+<!--<li>熟悉至少壹種較為常見的主流數據庫及SQL語言，有壹定的sql調優經驗。</li>-->
+<!--<li>熟悉多線程編程，有壹定的jvm調優經驗。</li>-->
+<!--<li>加分項： 熟悉dubbo系統，看過源碼更好;熟悉開放平臺建設。</li>-->
+<!--<li>計算機相關專業本科以上學歷。</li>-->
+<!--<li>具有良好的溝通表達能力和團隊協作能力。</li>-->
+<!--</ul>-->
+<!--</li>-->
+<!--</ul>-->
+<!--</div>-->
+<!--</div>-->
+
+<!--<div class="email-wrapper">-->
+<!--投遞郵箱 <a href="mailto:bituniverse@bit.com">bituniverse@bit.com</a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</main>-->
+
+
+<footer class="container-fluid footer">
+    <div class="container">
+        <div class="oh">
+            <h1>聯系我們</h1>
+        </div>
+        <div class="oh">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-1"></div>
+            <div class="col-sm-1"></div>
+            <div class="col-sm-1 col-xs-2"></div>
+            <div class="col-sm-1 col-xs-2">
+                <a target="_blank" href="https://www.facebook.com/pg/BitUniverseApp/groups/?ref=page_internal ">
+                    <img src="../image/facebook.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-1 col-xs-2">
+                <a target="_blank" href="https://twitter.com/bituniverse_org">
+                    <img src="../image/twitter.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-1 col-xs-2">
+                <a target="_blank" href="https://t.me/bituniversecn">
+
+                    <img src="../image/telegram.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-1 col-xs-2">
+                <a target="_blank" href="https://line.me/ti/p/2yivqWr4-F">
+                    <img src="../image/line.png" alt="">
+                </a>
+            </div>
+            <!--<div class="col-sm-1 col-xs-2">-->
+            <!--<img src="../image/qq.png" alt="">-->
+            <!--</div>-->
+            <!--<div class="col-sm-1 col-xs-2">-->
+            <!--<img src="../image/weixin.png" alt="">-->
+            <!--</div>-->
+            <div class="col-sm-1 col-xs-2"></div>
+            <div class="col-sm-1"></div>
+            <div class="col-sm-1"></div>
+            <div class="col-sm-1"></div>
+        </div>
+
+        <div class="phone oh">
+            <!--<p>400-666-5666</p>-->
+            <!--<p>周壹至周日 9:00-18:00</p>-->
+            <p><a href="mailto:service@bituniverse.org">service@bituniverse.org</a></p>
+            <div class="email-wrapper">
+                <a href="mailto:service@bituniverse.org">
+                    <img src="../image/email.png" alt="">
+                </a>
+            </div>
+        </div>
+        <hr>
+        <p class="copy">&copy;2018</p>
+    </div>
+
+</footer>
+
+<!-- /.container -->
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/navScroll.js"></script>
+<script src="../js/clamp.min.js"></script>
+
+<!--引入公共JS-->
+<!--私有JS-->
+<script src="../js/myJs.js"></script>
+<script src="../js/article.js"></script>
+
+
+</body>
