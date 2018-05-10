@@ -1,0 +1,40 @@
+.navbar {
+  background-color: rgba(14, 38, 84, 0.8);
+  margin-bottom: 0;
+  border-bottom: 0;
+}
+.navbar .navbar-brand {
+  padding-top: 11px;
+}
+.navbar .navbar-brand img {
+  height: 42px;
+}
+.navbar .navbar-right li.current a {
+  color: #f9ce46;
+}
+.navbar .navbar-right li a {
+  color: #b2b6c4;
+}
+.nav > li {
+  text-align: center;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  background-color: transparent;
+}
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: transparent;
+}
+.navbar-inverse {
+  border: none;
+}
+.navbar-inverse .navbar-toggle:focus {
+  border: none;
+}
+.navbar-inverse .navbar-toggle:hover {
+  border: none;
+}
+.navbar-inverse .navbar-toggle {
+  border: none;
+}

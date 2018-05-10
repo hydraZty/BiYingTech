@@ -2,134 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902fbd5c-241b-48f0-9664-10d7ac484e22" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/WechatIMG100.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/WechatIMG619.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/article/WechatIMG100.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/article/WechatIMG619.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/article/default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-002.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-003.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-004.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-006.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-007.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/BAI-008.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/app-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/background_bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/background_product.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/brand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/dev_backgroud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/dot_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/download_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/download_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/download_phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/galaxyS9_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/galaxyS9_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/getApk_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/getApk_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/getAppStore_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/getAppStore_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/getGoogle_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/getGoogle_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/iCON08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/index_background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/introduce_background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/news-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/news_bg_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/news_bg_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/news_bg_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/news_bg_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/news_bg_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_bit_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_bit_1_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_bit_1_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_bit_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_bit_2_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_bit_2_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_download_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_info_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_info_2_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_info_2_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_recode_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_recode_1_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_recode_1_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_recode_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_recode_2_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_recode_2_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_wallet_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_wallet_1_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_wallet_1_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_wallet_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_wallet_2_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/phone_wallet_2_hant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/picture-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/qq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/shadow-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/team_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/telegram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/video-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/article/WechatIMG100.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/article/WechatIMG619.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/article/WechatIMG100.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/article/WechatIMG619.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/article/default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/dev.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/download.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/introduce.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/en-us/team.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/article.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/article.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/dev.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/download.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/introduce.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hans/team.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/dev.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/download.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/introduce.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zh-hant/team.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/getAppStore.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/getGoogle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/info_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/info_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/introduce_center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/introduce_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/introduce_right.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/article_hans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/article_hant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/index_article.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/image/page_index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/recode_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/recode_2.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/image/wallet_1.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/image/wallet_2.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/galaxyS9.png" afterPath="$PROJECT_DIR$/image/galaxyS9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/iPhoneX.png" afterPath="$PROJECT_DIR$/image/iPhoneX.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/article.xml" afterPath="$PROJECT_DIR$/js/article_en.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/myJs.js" afterPath="$PROJECT_DIR$/js/myJs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/bootstrap.min.css" afterPath="$PROJECT_DIR$/style/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/media.less" afterPath="$PROJECT_DIR$/style/media.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/nav.less" afterPath="$PROJECT_DIR$/style/nav.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/styles.css" afterPath="$PROJECT_DIR$/style/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/styles.less" afterPath="$PROJECT_DIR$/style/styles.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en-us/article.html" afterPath="$PROJECT_DIR$/en-us/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en-us/download.html" afterPath="$PROJECT_DIR$/en-us/download.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en-us/index.html" afterPath="$PROJECT_DIR$/en-us/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en-us/introduce.html" afterPath="$PROJECT_DIR$/en-us/introduce.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en-us/news.html" afterPath="$PROJECT_DIR$/en-us/news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en-us/team.html" afterPath="$PROJECT_DIR$/en-us/team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/article.js" afterPath="$PROJECT_DIR$/js/article.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hans/article.html" afterPath="$PROJECT_DIR$/zh-hans/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hans/download.html" afterPath="$PROJECT_DIR$/zh-hans/download.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hans/index.html" afterPath="$PROJECT_DIR$/zh-hans/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hans/news.html" afterPath="$PROJECT_DIR$/zh-hans/news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hans/team.html" afterPath="$PROJECT_DIR$/zh-hans/team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hant/article.html" afterPath="$PROJECT_DIR$/zh-hant/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hant/download.html" afterPath="$PROJECT_DIR$/zh-hant/download.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hant/index.html" afterPath="$PROJECT_DIR$/zh-hant/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zh-hant/news.html" afterPath="$PROJECT_DIR$/zh-hant/news.html" />
     </list>
     <ignored path="BiYingTech.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -151,38 +48,15 @@
     <favorites_list name="BiYingTech" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7244027">
+    <splitter split-orientation="horizontal" split-proportion="0.52474403">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/en-us/index.html">
+          <file leaf-file-name="article_en.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/article_en.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="138">
-                  <caret line="400" column="14" selection-start-line="400" selection-start-column="14" selection-end-line="400" selection-end-column="14" />
+                <state relative-caret-position="30">
+                  <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="download.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/en-us/download.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="98" column="56" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="56" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zh-hant/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="93" column="50" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="50" />
-                  <folding>
-                    <element signature="e#15952#15958#1" expanded="true" />
-                    <element signature="e#20062#20068#0" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -190,21 +64,29 @@
           <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/zh-hant/article.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1770">
-                  <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+                <state relative-caret-position="498">
+                  <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="184" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="introduce.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zh-hant/introduce.html">
+          <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/zh-hans/news.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2535">
-                  <caret line="223" column="0" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#17643#17649#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="513">
+                  <caret line="182" column="8" selection-start-line="182" selection-start-column="8" selection-end-line="182" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/zh-hans/article.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="498">
+                  <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="185" selection-end-column="9" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -212,42 +94,29 @@
           <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/zh-hant/news.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1395">
-                  <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+                <state relative-caret-position="528">
+                  <caret line="182" column="35" selection-start-line="182" selection-start-column="35" selection-end-line="182" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="team.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/zh-hant/team.html">
+          <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/en-us/news.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-507">
-                  <caret line="216" column="24" selection-start-line="216" selection-start-column="24" selection-end-line="216" selection-end-column="24" />
-                  <folding>
-                    <element signature="n#style#0;n#h4#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="e#5375#5381#1" expanded="true" />
-                    <element signature="e#6130#6134#0" expanded="true" />
-                    <element signature="e#6263#6269#0" expanded="true" />
-                    <element signature="e#6490#6496#0" expanded="true" />
-                    <element signature="e#6872#6878#0" expanded="true" />
-                    <element signature="e#7194#7200#0" expanded="true" />
-                    <element signature="e#7560#7564#0" expanded="true" />
-                    <element signature="e#7943#7949#0" expanded="true" />
-                    <element signature="e#8263#8269#0" expanded="true" />
-                    <marker date="1525837698000" expanded="true" signature="5733:8743" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="5768:8728" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="5811:5866" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="5898:8494" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="5950:8472" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="5978:7381" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="6037:6174" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="6226:7352" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="7410:8447" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="7469:7604" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="7664:7677" ph="..." />
-                    <marker date="1525837698000" expanded="true" signature="7678:8418" ph="..." />
-                  </folding>
+                <state relative-caret-position="483">
+                  <caret line="183" column="9" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="705">
+                  <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -255,8 +124,8 @@
           <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/en-us/team.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-75">
-                  <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+                <state relative-caret-position="-567">
+                  <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
                   <folding>
                     <element signature="n#style#0;n#h4#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -264,21 +133,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="introduce.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/en-us/introduce.html">
+          <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/zh-hans/team.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="5775">
-                  <caret line="385" column="0" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
+                <state relative-caret-position="273">
+                  <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="208" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="download.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zh-hant/download.html">
+          <file leaf-file-name="index_article.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/index_article.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="136" column="7" selection-start-line="136" selection-start-column="7" selection-end-line="136" selection-end-column="7" />
+                <state relative-caret-position="348">
+                  <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -298,11 +167,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="media.less" pinned="false" current-in-tab="true">
+          <file leaf-file-name="article.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/en-us/article.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="393">
+                  <caret line="181" column="11" selection-start-line="181" selection-start-column="11" selection-end-line="181" selection-end-column="11" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="media.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/style/media.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="241">
-                  <caret line="410" column="24" selection-start-line="410" selection-start-column="24" selection-end-line="410" selection-end-column="24" />
+                <state relative-caret-position="496">
+                  <caret line="427" column="13" selection-start-line="427" selection-start-column="13" selection-end-line="427" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -328,8 +207,8 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="article.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/article.xml">
+          <file leaf-file-name="article_hans.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/article_hans.xml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="570">
                   <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
@@ -365,31 +244,35 @@
         <option value="$PROJECT_DIR$/zh-hans/artical.html" />
         <option value="$PROJECT_DIR$/js/artical.xml" />
         <option value="$PROJECT_DIR$/js/article.xml" />
-        <option value="$PROJECT_DIR$/js/article.js" />
         <option value="$PROJECT_DIR$/style/nav.less" />
         <option value="$PROJECT_DIR$/js/myJs.js" />
         <option value="$PROJECT_DIR$/style/styles.less" />
-        <option value="$PROJECT_DIR$/zh-hans/article.html" />
         <option value="$PROJECT_DIR$/zh-hans/dev.html" />
         <option value="$PROJECT_DIR$/zh-hans/introduce.html" />
-        <option value="$PROJECT_DIR$/zh-hans/news.html" />
-        <option value="$PROJECT_DIR$/zh-hans/team.html" />
-        <option value="$PROJECT_DIR$/en-us/news.html" />
         <option value="$PROJECT_DIR$/style/media.less" />
-        <option value="$PROJECT_DIR$/zh-hans/index.html" />
-        <option value="$PROJECT_DIR$/en-us/download.html" />
-        <option value="$PROJECT_DIR$/zh-hans/download.html" />
-        <option value="$PROJECT_DIR$/en-us/article.html" />
         <option value="$PROJECT_DIR$/zh-hant/dev.html" />
-        <option value="$PROJECT_DIR$/zh-hant/news.html" />
-        <option value="$PROJECT_DIR$/zh-hant/article.html" />
-        <option value="$PROJECT_DIR$/en-us/index.html" />
-        <option value="$PROJECT_DIR$/en-us/introduce.html" />
         <option value="$PROJECT_DIR$/zh-hant/introduce.html" />
-        <option value="$PROJECT_DIR$/zh-hant/index.html" />
-        <option value="$PROJECT_DIR$/zh-hant/download.html" />
         <option value="$PROJECT_DIR$/zh-hant/team.html" />
+        <option value="$PROJECT_DIR$/zh-hant/download.html" />
+        <option value="$PROJECT_DIR$/zh-hans/download.html" />
+        <option value="$PROJECT_DIR$/en-us/download.html" />
+        <option value="$PROJECT_DIR$/en-us/introduce.html" />
         <option value="$PROJECT_DIR$/en-us/team.html" />
+        <option value="$PROJECT_DIR$/js/article.js" />
+        <option value="$PROJECT_DIR$/js/article_en.xml" />
+        <option value="$PROJECT_DIR$/js/index_article.js" />
+        <option value="$PROJECT_DIR$/zh-hant/index.html" />
+        <option value="$PROJECT_DIR$/js/article_hant.xml" />
+        <option value="$PROJECT_DIR$/en-us/article.html" />
+        <option value="$PROJECT_DIR$/zh-hant/article.html" />
+        <option value="$PROJECT_DIR$/zh-hans/article.html" />
+        <option value="$PROJECT_DIR$/en-us/index.html" />
+        <option value="$PROJECT_DIR$/zh-hans/index.html" />
+        <option value="$PROJECT_DIR$/zh-hans/news.html" />
+        <option value="$PROJECT_DIR$/zh-hant/news.html" />
+        <option value="$PROJECT_DIR$/en-us/news.html" />
+        <option value="$PROJECT_DIR$/zh-hans/team.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -507,6 +390,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="zh-hans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BiYingTech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BiYingTech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BiYingTech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BiYingTech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="en-us" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -541,16 +456,16 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$/zh-hans" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/zh-hant" />
       <recent name="$PROJECT_DIR$/en-us" />
       <recent name="$PROJECT_DIR$/zh-hans/article" />
-      <recent name="$PROJECT_DIR$/article" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/zh-hans" />
     </key>
   </component>
   <component name="RunManager">
@@ -629,12 +544,12 @@
       <workItem from="1524922737921" duration="651000" />
       <workItem from="1525241907703" duration="45483000" />
       <workItem from="1525772410427" duration="4779000" />
-      <workItem from="1525837428396" duration="277000" />
+      <workItem from="1525837428396" duration="6294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166571000" />
+    <option name="totallyTimeSpent" value="172588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="6" />
@@ -675,18 +590,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/image/bg1.png" />
-    <entry file="file://$PROJECT_DIR$/image/background_bar.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/galaxyS9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/info_1.png" />
     <entry file="file://$PROJECT_DIR$/image/info_2.png" />
     <entry file="file://$PROJECT_DIR$/image/phone_wallet_2.png">
       <provider selected="true" editor-type-id="images">
@@ -751,14 +654,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/article.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/image/getGoogle_white.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -792,16 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/article.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc;n#getQueryString#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zh-hans/article/default.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -825,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hans/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="57" column="60" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zh-hans/dev.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -839,31 +717,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hans/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="60" selection-start-line="58" selection-start-column="60" selection-end-line="58" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hans/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zh-hans/introduce.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en-us/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="87" selection-start-line="90" selection-start-column="87" selection-end-line="90" selection-end-column="87" />
+          <folding>
+            <element signature="e#17563#17569#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -871,28 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7905">
           <caret line="527" column="19" selection-start-line="527" selection-start-column="19" selection-end-line="527" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hans/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="401" column="35" selection-start-line="401" selection-start-column="35" selection-end-line="401" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hans/download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="103" column="50" selection-start-line="103" selection-start-column="50" selection-end-line="103" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en-us/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="24" selection-start-line="115" selection-start-column="24" selection-end-line="115" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -905,89 +743,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hant/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hant/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en-us/introduce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5775">
-          <caret line="385" column="0" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en-us/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="400" column="14" selection-start-line="400" selection-start-column="14" selection-end-line="400" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en-us/download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="98" column="56" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/media.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="410" column="24" selection-start-line="410" selection-start-column="24" selection-end-line="410" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hant/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="93" column="50" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="50" />
-          <folding>
-            <element signature="e#15952#15958#1" expanded="true" />
-            <element signature="e#20062#20068#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zh-hant/download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="136" column="7" selection-start-line="136" selection-start-column="7" selection-end-line="136" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zh-hant/introduce.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2535">
           <caret line="223" column="0" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
           <folding>
-            <element signature="e#17643#17649#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en-us/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#h4#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17643#17649#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1020,6 +781,194 @@
             <marker date="1525837698000" expanded="true" signature="7664:7677" ph="..." />
             <marker date="1525837698000" expanded="true" signature="7678:8418" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hant/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1221">
+          <caret line="97" column="100" selection-start-line="97" selection-start-column="100" selection-end-line="97" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/media.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="427" column="13" selection-start-line="427" selection-start-column="13" selection-end-line="427" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hans/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="117" column="57" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
+          <folding>
+            <element signature="e#7575#7581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en-us/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="163" column="47" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en-us/introduce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="485" column="48" selection-start-line="485" selection-start-column="48" selection-end-line="485" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#getQueryString#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/article_hant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1047">
+          <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/article_hans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en-us/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="181" column="11" selection-start-line="181" selection-start-column="11" selection-end-line="181" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en-us/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="633" column="0" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hant/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="610" column="9" selection-start-line="610" selection-start-column="9" selection-end-line="610" selection-end-column="9" />
+          <folding>
+            <element signature="e#15962#15968#1" expanded="true" />
+            <element signature="e#20072#20078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hans/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="608" column="37" selection-start-line="608" selection-start-column="37" selection-end-line="608" selection-end-column="37" />
+          <folding>
+            <element signature="e#15884#15890#1" expanded="true" />
+            <element signature="e#19994#20000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hant/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="184" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hans/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="185" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hans/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="182" column="8" selection-start-line="182" selection-start-column="8" selection-end-line="182" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hant/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="182" column="35" selection-start-line="182" selection-start-column="35" selection-end-line="182" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index_article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/article_en.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en-us/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="183" column="9" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en-us/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh-hans/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="208" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

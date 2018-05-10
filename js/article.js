@@ -19,7 +19,7 @@ var count=0;
 
 
 var $articles;
-$.get("../js/article.xml",function(xml){
+$.get(xmlFile,function(xml){
     //xml即为可以读取使用的内容，具体读取见第2点
     var $xml=$(xml);
     $articles=$xml.find("article");
