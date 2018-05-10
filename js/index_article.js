@@ -12,6 +12,16 @@ $.get(xmlFile, function (xml) {
     var $xml = $(xml);
     $articles = $xml.find("article");
 
+
+
+    if($articles.length==0){
+
+        $('.page-news').hide();
+        return
+    }
+
+
+
     for (var i = 0; i < 4; i++) {
         var article = $articles[i];
         var title = article.getElementsByTagName("title")[0].innerHTML;

@@ -349,7 +349,7 @@ body {
   text-underline: none;
 }
 .page-news .nav-picture {
-  min-height: 700px;
+  min-height: 500px;
   overflow-y: scroll;
 }
 .page-news .nav-video {
