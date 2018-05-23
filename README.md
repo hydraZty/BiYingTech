@@ -4,7 +4,7 @@ web for BitUniverse
 # 文章上传
 -- 文章首页自动显示前四个
 
--- ~/js/article_**.xml 为文章存储文件
+-- ~~~/js/article_**.xml 为文章存储文件
 
 -- 一个 article 标签为一篇文章
 
